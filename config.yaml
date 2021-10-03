@@ -17,6 +17,8 @@ environment:
     dashboards:
         - name: Placeholder Tab
           url: '##DNS.host##/app'
+    tab_1:
+        - name: Overview
 backend:
     credits:
         program: prg-name
