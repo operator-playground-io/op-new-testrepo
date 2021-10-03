@@ -1,6 +1,7 @@
 name: MariaDB Operator Test
 description: MariaDB Operator
 logo: _images/mariadb-logo-3.png
+bannerimage: _images/Background.png
 license: MIT
 duration: 1 hour
 categories:
