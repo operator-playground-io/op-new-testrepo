@@ -4,6 +4,7 @@ logo: mariadb-logo.jpeg
 bannerimage: Background.png
 license: MIT
 duration: 1 Minute
+documentation: https://www.google.com
 categories:
     - Database
 intro: intro.md
