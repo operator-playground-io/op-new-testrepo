@@ -1,6 +1,6 @@
 name: MariaDB Operator Test
-description: MariaDB Operator
-logo: mariadb-logo-3.png
+description: MariaDB is an open source relational database management system (DBMS) that is a compatible drop-in replacement for the widely used MySQL database technology.MariaDB is based on SQL and supports ACID-style data processing with guaranteed atomicity, consistency, isolation and durability for transactions.
+logo: mariadb-logo.jpeg
 bannerimage: Background.png
 license: MIT
 duration: 1 hour
