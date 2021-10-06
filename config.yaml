@@ -9,6 +9,10 @@ categories:
     - Database
 intro: intro.md
 commands:
+    - description: Select root path
+      exec: cd /var/www/
+    - description: List all files
+      exec: ls -la
     - description: Install Operator
       exec: kubectl create -f https://operatorhub.io/install/mariadb-operator-app.yaml
 environment:
